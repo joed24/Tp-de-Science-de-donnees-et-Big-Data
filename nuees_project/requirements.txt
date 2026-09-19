@@ -1,0 +1,7 @@
+# Dépendances du projet.
+# NE PAS lancer automatiquement `pip install -r requirements.txt` si les
+# bibliothèques sont déjà présentes. Utiliser plutôt setup_environment.py,
+# qui vérifie d'abord les imports et les versions minimales.
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
